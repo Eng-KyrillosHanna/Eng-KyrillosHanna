@@ -8,7 +8,7 @@
 <h3>Data Scientist | AI Engineer</h3>
 
 <p>
-Passionate about turning data into actionable insights and building intelligent systems using Machine Learning & AI.
+"Transforming complex datasets into intelligent solutions. Dedicated to building scalable AI models and driving innovation at the intersection of Data Science and Machine Learning."
 </p>
 
 <br>
