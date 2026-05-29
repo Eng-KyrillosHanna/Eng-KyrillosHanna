@@ -91,52 +91,29 @@ Passionate about turning data into actionable insights and building intelligent 
 </ul>
 
 <hr>
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Eng-KyrillosHanna&label=PROFILE+VIEWS&labelColor=32CD32&color=555555&style=for-the-badge&abbreviated=true" />
-
-<!-- Followers -->
-<img src="https://img.shields.io/github/followers/Eng-KyrillosHanna?style=for-the-badge&color=555555&labelColor=0A66C2" />
-
-<!-- Stars -->
-<img src="https://img.shields.io/github/stars/Eng-KyrillosHanna?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=555555&labelColor=FFD700" />
-
-<br><br>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Eng-KyrillosHanna&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-<br><br>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-KyrillosHanna&theme=tokyo-night&hide_border=true" width="100%"/>
-
-<br><br>
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Eng-KyrillosHanna/Eng-KyrillosHanna/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<br><br>
-
-<!-- GitHub Stats -->
 <div align="center">
 
-<img 
-src="https://github-readme-stats.vercel.app/api?username=Eng-KyrillosHanna&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
-width="49%" 
-/>
+  <h3>📊 GitHub Activity</h3>
 
-<img 
-src="https://streak-stats.demolab.com?user=Eng-KyrillosHanna&theme=tokyonight&hide_border=true&border_radius=15" 
-width="49%" 
-/>
+  <div style="display: flex; justify-content: center; gap: 5px; flex-wrap: wrap;">
+     <img src="https://img.shields.io/badge/VIEWS-18-333333?style=for-the-badge&labelColor=28a745" />
+     <img src="https://img.shields.io/badge/FOLLOWERS-0-333333?style=for-the-badge&labelColor=0a66c2" />
+     <img src="https://img.shields.io/badge/STARS-0-333333?style=for-the-badge&labelColor=ffca28" />
+  </div>
 
-<br><br>
+  <br>
 
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-KyrillosHanna&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" 
-width="40%" 
-/>
+  <h3>🚀 Developer States</h3>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-KyrillosHanna&theme=tokyo-night&hide_border=true&area=true&line=82AAFF&point=82AAFF&bg_color=0D1117" width="100%" />
 
+  <br><br>
+
+  <h3>🔥 Activity Streak</h3>
+  
+  <img src="https://streak-stats.demolab.com?user=Eng-KyrillosHanna&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=82AAFF&fire=82AAFF&currStreakLabel=82AAFF" width="50%" />
+
+</div>
+  
 </div>
 
