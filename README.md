@@ -73,10 +73,10 @@ Passionate about turning data into actionable insights and building intelligent 
 <li>🐍 Programming Languages: Python, C, C++</li>
 <li>📊 Data Science: Pandas, NumPy, Scikit-Learn</li>
 <li>🤖 Deep Learning: TensorFlow, PyTorch</li>
-<li>📈 Visualization: Power BI, Tableau</li>
-<li>💾 Databases: MySQL, SQLite</li>
-<li>🛠 Tools: Git, VS Code, Jupyter, Google Colab</li>
-<li>💻 Platforms: Linux, Windows</li>
+<li>📈 Visualization: Power BI, Tableau, Excel</li>
+<li>💾 Databases: MySQL</li>
+<li>🛠 Tools: VS Code, CodeBlocks, PyCharm, Google Colab</li>
+<li>💻 Platforms: Windows</li>
 </ul>
 
 <hr>
