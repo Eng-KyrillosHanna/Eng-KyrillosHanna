@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Eng-KyrillosHanna/Eng-KyrillosHanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Kyrillos Hanna 👋
+### 📊 Data Scientist 
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  "Turning raw data into meaningful insights through precise design and logic."
+</p>
+
+</div>
+
+<hr>
+
+### 🛠 Tech Stack & Tools
+
+```python
+# Data Science & Visualization focus
+class DataScienceProfile:
+    def __init__(self):
+        self.languages = ["Python", "SQL", "JavaScript", "C++"]
+        self.viz_tools = ["Figma", "Matplotlib", "Seaborn", "Tableau"]
+        self.frameworks = ["Pandas", "NumPy", "Scikit-Learn", "TensorFlow"]
+        self.tools = ["Git", "VS Code", "Jupyter", "Linux"]
